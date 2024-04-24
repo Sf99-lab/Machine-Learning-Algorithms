@@ -1,0 +1,11 @@
+Lottery,Discount,Sale,Offer,Free,Category
+Yes,Yes,No,Yes,Yes,Spam
+Yes,No,No,Yes,Yes,Spam
+Yes,No,No,No,Yes,Spam
+No,No,No,No,No,Ham
+No,No,No,Yes,No,Ham
+No,Yes,No,No,No,Ham
+No,Yes,Yes,Yes,Yes,Spam
+Yes,No,No,No,No,Spam
+No,Yes,No,Yes,Yes,Ham
+No,No,Yes,Yes,Yes,Spam
